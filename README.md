@@ -1,5 +1,5 @@
-# Introducing Myself as a Pancake 🥞
-a Pancake with a strong passion about Linux, Automation, Embedded Systems.
+# Introducing Myself
+a Student with a strong passion about Linux, Automation, Embedded Systems.
 # Programming Languages
 [![Langs](https://skillicons.dev/icons?i=c,cpp,python,go,rust,bash)](https://skillicons.dev)
 # Currently Learning
